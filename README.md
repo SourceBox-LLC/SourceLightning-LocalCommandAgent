@@ -1,9 +1,10 @@
-# An AI agent with access to your command line and a the langchain file toolkit with the ability to read create/manipulate files and more!
+# An AI agent with access to your shell and files with the langchain shell tool and file management toolkit
 
+Gain the ability to automatically read, create, and manipulate files. Run shell commands and more!
 
 ## Model
 - Anthropic claude-3-sonnet-20240229
 
 ## Tools
-- Google Finance via Serpa
-- Yahoo Finance
+- Lanchain ShellTool
+- LangChain FileManagementToolkit
