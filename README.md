@@ -10,4 +10,4 @@ Gain the ability to automatically read, create, and manipulate files. Run shell 
 - LangChain FileManagementToolkit
 
 # Caution!
-- This Agent has access to your local shell and files, BE CAUTIOUS!
+This Agent has access to your local shell and files, BE CAUTIOUS!
